@@ -31,7 +31,7 @@ click the below button to deploy on Mogenius!
 ```bash
 click the below button to deploy on heroku!
 ```
-  [Click here to deploy on heroku](https://inrl-web.onrender.com/deploy/heroku)
+  [Click here to deploy on heroku](https://heroku.com/deploy?template=https://github.com/Onebot43/Mybots)
 <br>
 
 ## `⨷ Deploy To Uffizzi` 
